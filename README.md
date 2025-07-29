@@ -14,6 +14,6 @@
 
 ## LeetCode Database
 
-| #   | Title                                                                   | Solution                                                   | Difficulty |
-| --- | ----------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
-| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [JavaScript](./Database/175.%20Combine%20Two%20Tables.sql) | Easy       |
+| #   | Title                                                                   | Solution                                                      | Difficulty |
+| --- | ----------------------------------------------------------------------- | ------------------------------------------------------------- | ---------- |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MS SQL Server](./Database/175.%20Combine%20Two%20Tables.sql) | Easy       |
