@@ -14,6 +14,7 @@
 
 ## LeetCode Database
 
-| #   | Title                                                                   | Solution                                                      | Difficulty |
-| --- | ----------------------------------------------------------------------- | ------------------------------------------------------------- | ---------- |
-| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MS SQL Server](./Database/175.%20Combine%20Two%20Tables.sql) | Easy       |
+| #   | Title                                                                         | Solution                                                         | Difficulty |
+| --- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------- |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)       | [MS SQL Server](./Database/175.%20Combine%20Two%20Tables.sql)    | Easy       |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MS SQL Server](./Database/176.%20Second%20Highest%20Salary.sql) | Easy       |
