@@ -32,3 +32,14 @@ WHERE salary < (
 -- WHERE salary < (...) — Lọc ra các bản ghi có lương thấp hơn mức lương cao nhất.
 
 -- MAX(salary) ở ngoài — Tìm mức lương cao nhất trong các mức lương còn lại, chính là mức lương cao thứ hai.
+
+
+SELECT MAX(salary) AS SecondHighestSalary
+FROM (
+    SELECT DISTINCT salary
+    FROM Employee
+) AS distinct_salaries
+WHERE salary < (
+    SELECT MAX(salary)
+    FROM Employee
+);
